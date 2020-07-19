@@ -1,4 +1,4 @@
-def conversion_a_to_b():
+def reverse_number():
     n = int(input())
     new_num = 0
     while n > 0:
@@ -7,4 +7,4 @@ def conversion_a_to_b():
     print(new_num)
 
 
-conversion_a_to_b()
+reverse_number()
